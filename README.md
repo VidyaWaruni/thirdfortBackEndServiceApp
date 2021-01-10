@@ -9,7 +9,9 @@
 
 ## How to run
 
-* make sure that MySQL is running.(XAMPP)
+* make sure that MySQL is running.(XAMPP) 
+	* Database - testdb1
+	  Host - localhost
 * change data Source and data source username if Ports are different Edit the configuration File.
 
 
